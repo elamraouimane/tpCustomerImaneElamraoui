@@ -9,6 +9,7 @@ package service;
  */
 
 
+import entity.Customer;
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;

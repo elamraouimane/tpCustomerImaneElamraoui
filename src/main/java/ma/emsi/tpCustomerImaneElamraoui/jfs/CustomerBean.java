@@ -10,12 +10,14 @@ package ma.emsi.tpCustomerImaneElamraoui.jfs;
  */
 
 
+import entity.Customer;
 import jakarta.inject.Named;
 import jakarta.faces.view.ViewScoped;
 import jakarta.inject.Inject;
 import java.io.Serializable;
 import java.util.List;
-import ma.emsi.tp1customermahmoudrazzouk.service.CustomerManager;
+import service.CustomerManager;
+
 
 /**
  *
